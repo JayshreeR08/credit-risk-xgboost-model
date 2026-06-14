@@ -54,6 +54,11 @@ Training notebook can be found here:
 
 ---
 
+## 👤 Author
+- Name: Jayshree Rathore  
+- GitHub: https://github.com/JayshreeR08
+
+
 ## ⚙️ How to Use the Model
 
 ```python
