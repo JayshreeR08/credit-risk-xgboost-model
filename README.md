@@ -55,7 +55,7 @@ Training notebook can be found here:
 ---
 
 ## 👤 Author
-- Name: Jayshree Rathore  
+- Name: Jayshree  
 - GitHub: https://github.com/JayshreeR08
 
 
